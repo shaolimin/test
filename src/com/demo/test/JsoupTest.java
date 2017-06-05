@@ -8,12 +8,6 @@ import org.jsoup.nodes.Document;
 
 public class JsoupTest {
 
-	public static void main(String args[]) throws Exception{
-		JsoupTest jsoupTest = new JsoupTest();
-//		jsoupTest.get1("http://www.baidu.com");
-		jsoupTest.get2("http://www.baidu.com/s", "loadrunner");
-	}
-	
 	//get请求不带参数
 	public Document get1(String url) throws IOException{
 		Document document = Jsoup.connect(url).get();
