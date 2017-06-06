@@ -2,408 +2,408 @@
 <testng-results skipped="0" failed="0" ignored="0" total="100" passed="100">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2567" started-at="2017-06-04T11:40:10Z" finished-at="2017-06-04T11:40:13Z">
+  <suite name="Default suite" duration-ms="1686" started-at="2017-06-05T05:18:52Z" finished-at="2017-06-05T05:18:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2567" started-at="2017-06-04T11:40:10Z" finished-at="2017-06-04T11:40:13Z">
+    <test name="Default test" duration-ms="1686" started-at="2017-06-05T05:18:52Z" finished-at="2017-06-05T05:18:54Z">
       <class name="com.demo.test.NewTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="641" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="506" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="723" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="534" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="721" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="526" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="735" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="739" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="702" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="605" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="727" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="499" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="722" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="609" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="744" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="480" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="419" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="595" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="722" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="697" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="721" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="422" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="744" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="730" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="721" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="610" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="751" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="604" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="689" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="599" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="733" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="604" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="387" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="690" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="463" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="734" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="499" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="694" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="442" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="592" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="442" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="476" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="471" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="408" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="567" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="385" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="587" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="458" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="583" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="480" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="573" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="388" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="586" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="383" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="477" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="389" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="477" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="482" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="576" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="475" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="571" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="291" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="558" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="451" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="642" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="368" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="642" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="471" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="675" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="585" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="711" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="312" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="694" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="482" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="710" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="588" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="694" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="556" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="559" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="589" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="511" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="587" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="389" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="586" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="323" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="586" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="295" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="461" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="321" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="708" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="347" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="552" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="312" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="580" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="325" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="525" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="262" started-at="2017-06-04T19:40:10Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="369" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="333" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="437" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="664" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="231" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="679" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="267" started-at="2017-06-05T13:18:52Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="647" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="202" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="675" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="214" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="639" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="210" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="638" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="207" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="629" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="203" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="462" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="201" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="445" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="183" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="443" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="259" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="607" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="268" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="433" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="262" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="375" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="259" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="586" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="249" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1147" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="250" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="356" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="248" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="556" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="248" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="555" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="209" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="469" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="241" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1260" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="194" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="459" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="234" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="455" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="226" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1247" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="229" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="452" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="206" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="313" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="166" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="304" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="154" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="305" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="149" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="388" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="146" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="354" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:11Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="109" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1187" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="114" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1185" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="130" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1167" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="127" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="935" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="98" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1163" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="129" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="932" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="263" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1669" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="1012" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="929" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="55" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="926" started-at="2017-06-04T19:40:11Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="39" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="30" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="17" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="74" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="58" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="76" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="27" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="364" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="44" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="102" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="34" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="23" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="24" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="27" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="24" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="21" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="22" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="24" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:12Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="63" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="78" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="19" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="46" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="327" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="105" started-at="2017-06-04T19:40:12Z" finished-at="2017-06-04T19:40:13Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.demo.test.NewTest@7921b0a2]" name="test1" duration-ms="32" started-at="2017-06-05T13:18:53Z" finished-at="2017-06-05T13:18:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
